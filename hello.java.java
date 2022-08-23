@@ -2,6 +2,6 @@ public class Demo
 {
 	public static void main(String args[])
 	{
-		System.out.println(" its a demo for exam");
+		System.out.println("practice for exam");
 	}
 }
